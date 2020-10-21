@@ -7,8 +7,37 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "react-native"
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "react native",
+    "mobile",
+    "ios",
+    "android",
+    "ui",
+    "search",
+    "search-box",
+    "search-bar",
+    "searchbox",
+    "searchbar"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arch10/rn-search-box.git"
+  },
   "author": "Archit Raj",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-native": ">=0.40"
+  },
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.61.0",
+    "react": "^16.13.1",
+    "react-native": "^0.63.2"
+  },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  }
 }

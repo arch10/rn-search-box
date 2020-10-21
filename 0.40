@@ -1,0 +1,16 @@
+
+> core-js@2.6.11 postinstall C:\Users\RajArchi\Desktop\rn-search-box\node_modules\core-js
+> node -e "try{require('./postinstall')}catch(e){}"
+
+[96mThank you for using core-js ([94m https://github.com/zloirock/core-js [96m) for polyfilling JavaScript standard library![0m
+
+[96mThe project needs your help! Please consider supporting of core-js on Open Collective or Patreon: [0m
+[96m>[94m https://opencollective.com/core-js [0m
+[96m>[94m https://www.patreon.com/zloirock [0m
+
+[96mAlso, the author of core-js ([94m https://github.com/zloirock [96m) is looking for a good job -)[0m
+
++ react-native@0.63.2
+added 563 packages from 384 contributors and audited 682 packages in 91.761s
+found 0 vulnerabilities
+
